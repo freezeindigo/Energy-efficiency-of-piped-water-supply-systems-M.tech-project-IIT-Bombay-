@@ -27,5 +27,17 @@ Includes a Python module for:
 - Efficiency estimation
 - Expected vs actual performance comparison
 
+## Code
+
+This repository includes a modular analysis pipeline:
+
+- `physics.py` – hydraulic and efficiency calculations  
+- `features.py` – feature engineering  
+- `model.py` – regression model for efficiency prediction  
+- `visualize.py` – plots and trend analysis  
+- `main.py` – end-to-end pipeline  
+
+The code operationalizes field measurements into a computational framework for analyzing energy efficiency in PWS systems.
+
 ## Report
 See full report: [PDF link]
